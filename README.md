@@ -1,2 +1,2 @@
-# chenganggo..github.io
+# chenganggo.github.io
 blog
